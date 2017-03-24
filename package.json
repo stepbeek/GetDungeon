@@ -1,0 +1,30 @@
+{
+  "name": "get-dungeon",
+  "version": "1.0.0",
+  "description": "A url-hacking based rpg game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepbeek/GetDungeon.git"
+  },
+  "keywords": [
+    "rpg",
+    "game",
+    "url",
+    "hacking"
+  ],
+  "author": "Stephen van Beek",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/stepbeek/GetDungeon/issues"
+  },
+  "homepage": "https://github.com/stepbeek/GetDungeon#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "express-session": "^1.15.1"
+  }
+}
